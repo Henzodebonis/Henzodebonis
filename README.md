@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vincenzo
 - 👀 I’m interested in technology, sports and travelling
 - 🌱 I’m currently learning the Javascript language
-- 💞️ I’m looking to an web development internship
+- 💞️ I’m looking for an web development internship
 - 📫 Contact me on vincenzo-debonis@virgilio.it
 
 <!---
